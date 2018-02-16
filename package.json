@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Node JS Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Uniyal",
+  "license": "GPL v3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlogix/twitter-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xlogix/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/xlogix/twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}
